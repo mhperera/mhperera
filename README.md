@@ -1,4 +1,4 @@
-![Manasha's GitHub Banner](./Banner.jpg)
+![Manasha's GitHub Banner](./Banner1.jpg)
 
 <br>
  
