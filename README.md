@@ -25,7 +25,7 @@
 
 <div id="intro" align="center">
   
-  ### Hi 👋 , I'm Manasha, UI/UX developer self-proclaimed designer from Sri Lanka 🇱🇰.
+  ### Hi 👋 , I'm Manasha, React PHP Software Engineer self-proclaimed developer from Sri Lanka 🇱🇰.
   I'm passionate to see things in a nicer way.
   
 </div>
