@@ -62,8 +62,11 @@
   <br>
   <br>
   <br>
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhperera&show_icons=true&theme=dracula)
+
+  <div id="badges" align="center">
+   <img align="center" line_height="27" style="max-width: 100%;" height="150px" src="https://github-readme-stats.vercel.app/api?username=mhperera&show_icons=true&theme=gruvbox" />
+   <img align="center" style="max-width: 100%;" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhperera&layout=compact&theme=gruvbox&langs_count=6" />
+  </div>
   
 </div>
   
