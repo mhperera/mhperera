@@ -1,4 +1,4 @@
-![Manasha's GitHub Banner](./ManashaBanner.png)
+![Manasha's GitHub Banner](./linkedInCover.png)
 
 <div id="badges" align="center">
   
